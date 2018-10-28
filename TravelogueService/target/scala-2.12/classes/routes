@@ -1,0 +1,11 @@
+POST        /v1/auth/register                   auth.UserController.register
+POST        /v1/auth/login                      auth.UserController.login
+POST        /v1/auth/update                     auth.UserController.update
+GET         /v1/auth/users                      auth.UserController.getAll
+GET         /v1/auth/delete                     auth.UserController.delete(user_id:Int)
+
+POST        /v1/travel/addtrip                  travel.TripController.addTrip
+POST        /v1/travel/update                   travel.TripController.updateTrip
+GET        /v1/travel/trips                     travel.TripController.getTrips(user_id:Int)
+GET        /v1/travel/delete                    travel.TripController.deleteTrip(trip_id:Int)
+

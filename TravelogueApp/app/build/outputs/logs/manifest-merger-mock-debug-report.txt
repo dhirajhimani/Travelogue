@@ -1,0 +1,231 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+MERGED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.1.aar/3d9ffff5ddac615f67d0c7224ce3b6ab/AndroidManifest.xml:17:1-21:12
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c616b5db9e4601ec053e329273de016/AndroidManifest.xml:17:1-24:12
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/library-1.9.0.aar/4e481acca9a072bc5d0bd825907d58c1/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:17:1-31:12
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/53db56606917641ebe2bc7bd0b354516/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.persistence:db:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/a9e81791c4e412d8c33dc9413b7b47eb/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.core:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e4c8388f18d5626bc02b6cb5dc19696/AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:17:1-30:12
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+	package
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:3:5-37
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:1-36:12
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:5:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:6:22-78
+application
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:8:5-34:19
+MERGED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:25:5-29:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:24:5-28:19
+	android:supportsRtl
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:14:9-35
+	android:label
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:12:9-41
+	android:roundIcon
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:13:9-54
+	android:icon
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:11:9-43
+	android:allowBackup
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:10:9-36
+	android:theme
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:15:9-40
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:9:9-28
+activity#com.example.travelogue.login.LoginActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:17:13-48
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:22:27-74
+activity#com.example.travelogue.users.UsersActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:26:9-66
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:26:19-54
+activity#com.example.travelogue.addedituser.AddEditUserActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:27:9-78
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:27:19-66
+activity#com.example.travelogue.userdetail.UserDetailActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:28:9-76
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:28:19-64
+activity#com.example.travelogue.trips.TripsActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:29:9-66
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:29:19-54
+activity#com.example.travelogue.trips.TripsWebViewActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:30:9-73
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:30:19-61
+activity#com.example.travelogue.addedittrip.AddEditTripActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:31:9-78
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:31:19-66
+activity#com.example.travelogue.tripdetail.TripDetailActivity
+ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:32:9-76
+	android:name
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml:32:19-64
+uses-sdk
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.1.aar/3d9ffff5ddac615f67d0c7224ce3b6ab/AndroidManifest.xml:19:3-70
+MERGED from [com.android.support.test.espresso:espresso-idling-resource:3.0.1] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/espresso-idling-resource-3.0.1.aar/3d9ffff5ddac615f67d0c7224ce3b6ab/AndroidManifest.xml:19:3-70
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c616b5db9e4601ec053e329273de016/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence.room:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/4c616b5db9e4601ec053e329273de016/AndroidManifest.xml:20:5-22:41
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/library-1.9.0.aar/4e481acca9a072bc5d0bd825907d58c1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.pixplicity.easyprefs:library:1.9.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/library-1.9.0.aar/4e481acca9a072bc5d0bd825907d58c1/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:21:5-23:58
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/53db56606917641ebe2bc7bd0b354516/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db-framework:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/db-framework-1.0.0.aar/53db56606917641ebe2bc7bd0b354516/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/a9e81791c4e412d8c33dc9413b7b47eb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.persistence:db:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/db-1.0.0.aar/a9e81791c4e412d8c33dc9413b7b47eb/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e4c8388f18d5626bc02b6cb5dc19696/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.core:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6e4c8388f18d5626bc02b6cb5dc19696/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		ADDED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/dhirajh/Documents/Codes/Toptal/TravelogueApp/app/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.1.0.aar/60cebbffda926104b13cee5c3e4ff28c/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/cardview-v7-26.1.0.aar/420498cb8c7ef7692912a3da83af621e/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-26.1.0.aar/50fb9ba36f12838f31ad853152036d21/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/transition-26.1.0.aar/7cb784a291911b243680b45e29d14575/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-v4-26.1.0.aar/c8bf02b46d2e4d8f02dcfcde2e56c839/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.1.0.aar/488d854545b2fd1644b3319ac88d6f9d/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.1.0.aar/415448e90b47ee380865b314e658608f/AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-fragment-26.1.0.aar/e729344b29ca58059d18dacfa53016f0/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.1.0.aar/693ed8aefecf59664cbfcddbce496476/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.1.0.aar/dc7db6cfcac0ebbe090fde7a20e8d3f7/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.1.0.aar/903fc0b55fc800bc3ddad7f798b60c3f/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/support-compat-26.1.0.aar/00f04fbf8b2f993d05d534dc04519614/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:design:26.1.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/design-26.1.0.aar/9cf74e56f4b7abc4b8318d9fbfde524f/AndroidManifest.xml:27:13-51
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] /Users/dhirajh/.gradle/caches/transforms-1/files-1.1/runtime-1.0.0.aar/6da25e872b8b94f264aa1ef91cf9457b/AndroidManifest.xml:26:13-58
