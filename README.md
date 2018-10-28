@@ -28,11 +28,11 @@ Current Reository contains :-
 
 Tech Stack:-
 
-1.Scala
-2.Java
-3.Play Framework
-4.Slick
-5.Room
-6.Postgre
-7.Android SDK
+1. Scala
+2. Java
+3. Play Framework
+4. Slick
+5. Room
+6. Postgre
+7. Android SDK
 
